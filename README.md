@@ -21,3 +21,4 @@ extreact pdf from zip
 open folder in vs code
 run - npm run dev 
 if error shown just use chatgpt to resolve the error may be arise due to lack of dependecny
+Link: https://deloitte-project.vercel.app/
